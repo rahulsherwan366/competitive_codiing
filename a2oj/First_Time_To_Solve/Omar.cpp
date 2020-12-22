@@ -1,4 +1,6 @@
+// Required headers
 #include <iostream>
+
 
 using namespace std;
 
@@ -10,6 +12,7 @@ int main()
     {
         cin>>x;
         cin>>y;
+        // main logic
         sum = x + y;
         cout<<sum<<endl;
     }
